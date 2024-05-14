@@ -4,6 +4,8 @@ import { useState } from "react";
 import axios from "axios";
 import Web3 from "web3";
 import { gotoDisplay } from "../action";
+// const artifact = require("../../../../builds/contracts/HashStorage.json");
+// const ABI = artifact.abi;
 const ABI = require("../abi.json");
 console.log(ABI);
 export default function NFTForm() {
@@ -55,6 +57,12 @@ export default function NFTForm() {
     });
     const ImgHash = ` https://gateway.pinata.cloud/ipfs/${resFile.data.IpfsHash}`;
     console.log(ImgHash);
+    // const networkID = await web3.eth.net.getId();
+    // if (networkID !== "5777") {
+    //   alert("please change metamask acount to ganache imported acount ");
+    //   return;
+    // }
+
     // const networkID = await web3.eth.net.getId();
     // const address = artifact.networks[networkID].address;
     const address = process.env.NEXT_PUBLIC_CONTRACT;

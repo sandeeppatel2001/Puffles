@@ -14,6 +14,11 @@ const page = () => {
       if (typeof window !== "undefined") {
         const web3 = new Web3(window.ethereum);
         // const networkID = await web3.eth.net.getId();
+        // if (networkID !== "5777") {
+        //   alert("please change metamask acount to ganache imported acount ");
+        //   return;
+        // }
+        // const networkID = await web3.eth.net.getId();
         // address = artifact.networks[networkID].address;
         address = process.env.NEXT_PUBLIC_CONTRACT;
         const accountscount = await web3.eth.requestAccounts();
