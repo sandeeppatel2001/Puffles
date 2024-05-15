@@ -95,7 +95,7 @@ export default function ShowId() {
             className="text-gray-500 mt-2 overflow-auto w-96"
             style={{ scrollbarWidth: "none", "-ms-overflow-style": "none" }}
           >
-            Token_URL:http://localhost:3000/id/{id}
+            Token_URL:https://puffles-silk.vercel.app/id/{id}
           </p>
           <div style={styles.buttonContainer}>
             <button

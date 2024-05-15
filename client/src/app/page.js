@@ -82,7 +82,7 @@ const page = () => {
                 className="text-gray-500 mt-2 overflow-auto"
                 style={{ scrollbarWidth: "none", "-ms-overflow-style": "none" }}
               >
-                Token_URL:https://gateway.pinata.cloud/ipfs/{item.imageUrl}
+                Token_URL:https://puffles-silk.vercel.app/id/{item.imageUrl}
               </p>
             </div>
           ))}
