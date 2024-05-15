@@ -11,3 +11,7 @@ export async function gotoForm() {
   revalidatePath("/");
   redirect("/form");
 }
+export async function gotoDetails(id) {
+  revalidatePath("/");
+  redirect(`/id/${id}`);
+}
