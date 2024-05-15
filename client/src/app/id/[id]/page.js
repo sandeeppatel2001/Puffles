@@ -98,13 +98,21 @@ export default function ShowId() {
             Token_URL:http://localhost:3000/id/{id}
           </p>
           <div style={styles.buttonContainer}>
-            <button style={styles.button} onClick={() => alert("Buy clicked!")}>
+            <button
+              style={styles.button}
+              onClick={() => {
+                if (accountscount[0] !== nftData.owner) {
+                }
+                alert("You Are Not Allowed This Action");
+                return;
+              }}
+            >
               Buy
             </button>
             <button
               style={styles.button}
               onClick={() => {
-                console.log("ttttttttttttttt", accountscount);
+                // console.log("ttttttttttttttt", accountscount);
                 if (accountscount[0] !== nftData.owner) {
                 }
                 alert("You Are Not The Owner Of This NFTs");
