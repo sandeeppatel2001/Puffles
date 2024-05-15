@@ -9,7 +9,9 @@
 
 To view the live demo, click [https://puffles-silk.vercel.app/](https://puffles-silk.vercel.app/).
 
-<img width="959" alt="Screenshot 2024-05-14 131833" src="https://github.com/sandeeppatel2001/Puffles/assets/95873801/e903187d-ddfc-45d1-94bd-d0252b1df3cc">
+<img width="959" alt="Screenshot 2024-05-16 034543" src="https://github.com/sandeeppatel2001/Puffles/assets/95873801/139cedab-9e3b-4a77-9f72-ab832eb02e01">
+
+<img width="941" alt="Screenshot 2024-05-16 034709" src="https://github.com/sandeeppatel2001/Puffles/assets/95873801/58ad54d0-4d78-4027-8c3d-58233b615595">
 
 ## Github Repo Link
 
@@ -62,7 +64,7 @@ NetworkName can be sepolia or goerli or development . development is for deploy 
 For creating new NFTs, you will need to have MetaMask installed for payment processing.
 ⚠️Please install MetaMask and switch your MetaMask account to Sepolya testnet account.
 
-<img width="956" alt="Screenshot 2024-05-14 132257" src="https://github.com/sandeeppatel2001/Puffles/assets/95873801/21771507-1bde-4a28-b53b-9bbd1a16b462">
+<img width="953" alt="Screenshot 2024-05-16 035225" src="https://github.com/sandeeppatel2001/Puffles/assets/95873801/e6914e51-c064-4f74-aa35-31ecdd470f5a">
 
 If you encounter any issues or have questions, feel free to reach out for assistance.
 
