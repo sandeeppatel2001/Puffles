@@ -9,9 +9,9 @@
 
 To view the live demo, click [https://puffles-silk.vercel.app/](https://puffles-silk.vercel.app/).
 
-<img width="959" alt="Screenshot 2024-05-16 034543" src="https://github.com/sandeeppatel2001/Puffles/assets/95873801/139cedab-9e3b-4a77-9f72-ab832eb02e01">
+<img width="959" alt="Screenshot 2024-05-18 225432" src="https://github.com/sandeeppatel2001/Puffles/assets/95873801/b6e1e852-ea0a-4888-84d3-b2ef17a9e724">
 
-<img width="941" alt="Screenshot 2024-05-16 034709" src="https://github.com/sandeeppatel2001/Puffles/assets/95873801/58ad54d0-4d78-4027-8c3d-58233b615595">
+<img width="959" alt="Screenshot 2024-05-18 225518" src="https://github.com/sandeeppatel2001/Puffles/assets/95873801/2f0e7713-eb1f-4845-815c-a6989aa36cb5">
 
 ## Github Repo Link
 
